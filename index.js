@@ -5,6 +5,7 @@ var main = (function(){
   import("module B");
   import("module C");
   import("module D");
+  import("module E");
 
   /* other code */
 
